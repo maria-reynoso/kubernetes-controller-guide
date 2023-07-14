@@ -1,2 +1,2 @@
-# kubernetes-controller-guide
-Blog post - Guide to build a kubernetes controller for beginners
+# Blog post - A Kubernetes Controller Guide
+Guide to building a Kubernetes controller for beginners
